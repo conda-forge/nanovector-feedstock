@@ -1,5 +1,5 @@
 context:
-  version: "0.1.4"
+  version: "0.1.6"
 
 package:
   name: nanovector
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/n/nanovector/nanovector-${{ version }}.tar.gz
-  sha256: 5d0b7b044152421ce3343ee7fed8439ebdce86cd949be5c2b4a33648f56278df
+  sha256: bdd161aed1d996ddba3fcca5fbb85c697530a7e5d1db541e97ae0c1b10e651de
 
 build:
   number: 0
